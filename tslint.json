@@ -10,7 +10,7 @@
       true,
       "check-space"
     ],
-    "curly": true,
+    "curly": false,
     "deprecation": {
       "severity": "warn"
     },
@@ -84,7 +84,7 @@
     ],
     "prefer-const": true,
     "quotemark": [
-      true,
+      false,
       "single"
     ],
     "radix": true,
@@ -109,7 +109,7 @@
     "unified-signatures": true,
     "variable-name": false,
     "whitespace": [
-      true,
+      false,
       "check-branch",
       "check-decl",
       "check-operator",
@@ -123,7 +123,7 @@
     "no-input-rename": true,
     "no-output-rename": true,
     "use-life-cycle-interface": true,
-    "use-pipe-transform-interface": true,
+    "use-pipe-transform-interface": false,
     "component-class-suffix": true,
     "directive-class-suffix": true
   }
